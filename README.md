@@ -2,7 +2,7 @@
 
 ## I'm a Student, and Backend Developer!!
 
-- 🌱 I’m not afraid of challenges because it helps me grow.
+- 🌱 Challenges are my friend.
 
 <br />
 <br />
